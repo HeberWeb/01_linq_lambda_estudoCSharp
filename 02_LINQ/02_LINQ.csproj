@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F0936F4B-4EEF-4307-A85D-330FA941D933}</ProjectGuid>
+    <ProjectGuid>{8C669FDA-E481-4813-9D99-5F12FE115585}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01_LINQ</RootNamespace>
-    <AssemblyName>01_LINQ</AssemblyName>
+    <RootNamespace>_02_LINQ</RootNamespace>
+    <AssemblyName>02_LINQ</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
