@@ -29,7 +29,7 @@ namespace _04_LINQ_JOIN
 
             foreach (var item in listaJoin)
             {
-                Console.WriteLine("Livro: {0} - Autor: {1}", item.autor.Nome, item.livros.Titulo);
+                Console.WriteLine("Livro: {0} - Autor: {1}", item.livros.Titulo, item.autor.Nome);
             }
 
             Console.ReadKey();

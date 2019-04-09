@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_LINQ_OBJ", "03_LINQ_OBJ\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_LINQ_JOIN", "04_LINQ_JOIN\04_LINQ_JOIN.csproj", "{EA56D64A-7D9E-4539-800D-D4A4B5CD90BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LINQ_GROUP", "05_LINQ_GROUP\05_LINQ_GROUP.csproj", "{A130D3CC-393A-4885-96A4-6A6E0C44CBFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EA56D64A-7D9E-4539-800D-D4A4B5CD90BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA56D64A-7D9E-4539-800D-D4A4B5CD90BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA56D64A-7D9E-4539-800D-D4A4B5CD90BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A130D3CC-393A-4885-96A4-6A6E0C44CBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A130D3CC-393A-4885-96A4-6A6E0C44CBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A130D3CC-393A-4885-96A4-6A6E0C44CBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A130D3CC-393A-4885-96A4-6A6E0C44CBFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
